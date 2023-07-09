@@ -1,11 +1,7 @@
-/* eslint valid-jsdoc: "off" */
-
-'use strict';
-
 /**
  * @param {Egg.EggAppInfo} appInfo app info
  */
-export default appInfo => {
+module.exports = appInfo => {
   /**
    * built-in config
    * @type {Egg.EggAppConfig}
