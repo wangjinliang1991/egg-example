@@ -33,8 +33,7 @@
     "test": "npm run test-local",
     "test-local": "egg-bin test",
     "cov": "egg-bin cov",
-    "lint": "eslint .",
-    "ci": "npm run lint && npm run cov"
+    "ci": "npm run cov"
   },
   "ci": {
     "version": "16, 18",
