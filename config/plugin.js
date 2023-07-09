@@ -1,6 +1,6 @@
 'use strict';
 
-exports.nunjucks = {
+export const nunjucks = {
   enable: true,
   package: 'egg-view-nunjucks',
 };
