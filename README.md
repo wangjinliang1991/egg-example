@@ -1,4 +1,5 @@
-# example
+# egg-example
+记录学习egg的过程
 
 
 
